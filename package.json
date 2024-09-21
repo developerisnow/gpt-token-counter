@@ -6,9 +6,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "developerisnow",
   "license": "ISC",
-  "description": "",
+  "description": "A command-line tool to count tokens in files and folders using GPT-4 tokenization.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developerisnow/gpt-token-counter"
+  },
   "dependencies": {
     "commander": "^12.1.0",
     "gpt-tokenizer": "^2.3.0",

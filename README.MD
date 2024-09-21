@@ -89,6 +89,10 @@ Total token count: 427530
 
 [developerisnow](https://www.npmjs.com/~developerisnow)
 
+## Repository
+
+[GitHub Repository](https://github.com/developerisnow/gpt-token-counter)
+
 ## License
 
 This project is licensed under the ISC License.
