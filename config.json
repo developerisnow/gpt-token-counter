@@ -1,0 +1,4 @@
+{
+    "include": ["**/*.md", "**/*.txt", "**/*.json", "**/*.csv"],
+    "exclude": ["node_modules/**", "**/*.log", "**/*.pdf", "**/*.docx", "**/*.xlsx", "**/*.xls", "**/*.pptx", "**/*.ppt", "**/*.odt", "**/*.ods", "**/*.odp"]
+  }

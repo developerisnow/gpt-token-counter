@@ -1,0 +1,21 @@
+{
+  "name": "gpt-token-counter",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "gpt-tokenizer": "^2.3.0",
+    "pdf-parse": "^1.1.1",
+    "glob": "^7.2.0"
+  },
+  "bin": {
+    "tokens": "./index.js"
+  }
+}
